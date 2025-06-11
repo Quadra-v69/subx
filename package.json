@@ -3,7 +3,7 @@
   "version": "0.0.14",
   "description": "subx: A CLI tool for finding subdomains in bug bounty programs",
   "bin": {
-    "nodesub": "nodesub.js"
+    "subx": "subx.js"
   },
   "keywords": [
     "amass",
