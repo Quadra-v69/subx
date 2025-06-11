@@ -45,7 +45,7 @@ const HttpsProxyAgent = require('https-proxy-agent');
 const SocksProxyAgent = require('socks-proxy-agent');
 
 const version = '0.1.2';
-const codename = 'pikpikcu';
+const codename = 'Quadra_v69';
 
 program
     .description('subx is a command-line tool for finding subdomains in bug bounty programs.')
